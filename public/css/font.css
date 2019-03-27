@@ -1,0 +1,30 @@
+/*
+고양체
+https://noonnu.cc/font_page/79
+*/
+@font-face {
+    font-family: 'Goyang';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Goyang.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/*
+베스킨라빈스
+https://noonnu.cc/font_page/246
+*/
+@font-face {
+    font-family: 'BRBA_B';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_seven@1.2/BRBA_B.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/*
+베스킨라빈스
+https://noonnu.cc/font_page/64
+*/
+@font-face {
+    font-family: 'YanoljaYacheR';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/YanoljaYacheR.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
